@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: Fart Patrol
+
+## Author: Adraewyn (Garona) aka exrica 
+## Version: 0.9.9
+## Notes: Tracks /fart on or by other players
+
+## SavedVariablesPerCharacter: FARTPATROL_DB
+## SavedVariables: NOFART_DB
+
+FartPatrol.lua

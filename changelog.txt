@@ -1,0 +1,56 @@
+Version 0.9.9
+- Added commands to turn all /say chat on or off. Turning /say chat
+  back on using the chaton command will not clear disabled zones.
+
+Version: 0.9.8.1
+- Bug fix to count farts on you when zone /say chat is toggled off.
+
+Version: 0.9.8
+- Changed far sound effect to external sound file so FartPatrol users
+  who don't have the Foul Belly toy can hear a fart.
+
+Version: 0.9.7
+- Added color highlights to make the command list easier to read.
+- Toggling a zone off no longer completely disables a zone, instead
+  it now only disables the chat from being displayed in /say. The 
+  fart stat will be displayed as a system message instead.
+- Toggling a zone on now restores default /say chat functionality.
+
+Version: 0.9.6
+- Added fart sound (Foul Belly sound effect) when a fart is counted.
+- Corrected some typos in help.
+
+Version 0.9.5
+- Removed hard coded banned zones, FartPatrol can be disabled in a
+  zone, or re-enabled as the user's choice. This is per account.
+  
+Version 0.9.4
+- FartPatrol stats are now per character rather than per account.
+- Fixed help typos.
+- Clear command is per character.
+
+Version 0.9.3
+- Added banned zones to prevent fart spam in our raid.
+- List must be updated as Blizzard releases zone IDs for new raids.
+
+Version 0.9.2.1
+- Increased the spam cooldown to 10 seconds.
+
+Version 0.9.2
+- Now keeps track of when the user is farted on in addition to 
+  farting on other players.
+- Added commands to view farter and fartee stats separately.
+- Added /say chat for other players farts on the user.
+- Clear command will clear all fartee and farter stats.
+
+Version 0.9.1.1
+- Added a cooldown to prevent /fart spam.
+
+Version 0.9.1
+- Added /say chat to display fart count when farting on a player.
+- Added ability to clear fart stats.
+
+Version 0.9.0
+- It works... /fart on someone (target) and it will be counted. Use 
+  the stats command to see the count.
+- Use /fartpatrol for help.
